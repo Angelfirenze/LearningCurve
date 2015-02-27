@@ -1,0 +1,9 @@
+    rails -v
+    
+    npm -v
+    
+    meteor --version
+    
+    bundler -v 
+    
+    heroku --version
